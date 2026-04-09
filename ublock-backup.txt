@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1734122060466,
-  "version": "1.61.2",
+  "timeStamp": 1775767060438,
+  "version": "1.70.0",
   "userSettings": {
     "uiAccentCustom": true,
     "uiAccentCustom0": "#cba6f7",
@@ -23,7 +23,6 @@
     "ublock-unbreak",
     "easylist",
     "easyprivacy",
-    "adguard-spyware",
     "adguard-spyware-url",
     "block-lan",
     "urlhaus-1",
